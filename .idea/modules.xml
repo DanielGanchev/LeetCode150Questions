@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/_01MergeSortingArray/_01MergeSortingArray.iml" filepath="$PROJECT_DIR$/_01MergeSortingArray/_01MergeSortingArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02RemoveElement/_02RemoveElement.iml" filepath="$PROJECT_DIR$/_02RemoveElement/_02RemoveElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/_03RemoveDupesFromSortedArray/_03RemoveDupesFromSortedArray.iml" filepath="$PROJECT_DIR$/_03RemoveDupesFromSortedArray/_03RemoveDupesFromSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04RemoveDupesFromSortedArray2/_04RemoveDupesFromSortedArray2.iml" filepath="$PROJECT_DIR$/_04RemoveDupesFromSortedArray2/_04RemoveDupesFromSortedArray2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05MajorityElement/_05MajorityElement.iml" filepath="$PROJECT_DIR$/_05MajorityElement/_05MajorityElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06RotateArray/_06RotateArray.iml" filepath="$PROJECT_DIR$/_06RotateArray/_06RotateArray.iml" />
     </modules>
   </component>
 </project>

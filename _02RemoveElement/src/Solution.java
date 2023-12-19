@@ -7,9 +7,9 @@ public class Solution {
     int[] nums = {0,1,2,2,3,0,4,2};
     int val = 2;
     int result = solution.removeElement(nums, val);
-    System.out.println("After removing " + val + ", the length of the array is: " + result);
+    System.out.println( result);
 
-    System.out.println("The array after removal is: " + Arrays.toString(nums));
+    System.out.println(Arrays.toString(nums));
   }
 
   public int removeElement(int[] nums, int val) {
