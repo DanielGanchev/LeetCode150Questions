@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TopInterview150.iml" filepath="$PROJECT_DIR$/TopInterview150.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01MergeSortingArray/_01MergeSortingArray.iml" filepath="$PROJECT_DIR$/_01MergeSortingArray/_01MergeSortingArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02RemoveElement/_02RemoveElement.iml" filepath="$PROJECT_DIR$/_02RemoveElement/_02RemoveElement.iml" />
+    </modules>
+  </component>
+</project>
