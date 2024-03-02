@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/_04RemoveDupesFromSortedArray2/_04RemoveDupesFromSortedArray2.iml" filepath="$PROJECT_DIR$/_04RemoveDupesFromSortedArray2/_04RemoveDupesFromSortedArray2.iml" />
       <module fileurl="file://$PROJECT_DIR$/_05MajorityElement/_05MajorityElement.iml" filepath="$PROJECT_DIR$/_05MajorityElement/_05MajorityElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/_06RotateArray/_06RotateArray.iml" filepath="$PROJECT_DIR$/_06RotateArray/_06RotateArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07BestTimeToBuyAndSellStock/_07BestTimeToBuyAndSellStock.iml" filepath="$PROJECT_DIR$/_07BestTimeToBuyAndSellStock/_07BestTimeToBuyAndSellStock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08BestTimeToBuyAndSellStock2/_08BestTimeToBuyAndSellStock2.iml" filepath="$PROJECT_DIR$/_08BestTimeToBuyAndSellStock2/_08BestTimeToBuyAndSellStock2.iml" />
     </modules>
   </component>
 </project>
